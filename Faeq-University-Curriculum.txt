@@ -2,3 +2,4 @@ KURIKULUM PEMBELAJARAN WEB-DEVELOPMENT FAEQ-UNIVERSITY
 - Mengetahui, memahami, dan mempraktikkan HTML Dasar
 - Mengetahui, memahami, dan mempraktikkan CSS Dasar
 - Mengetahui, memahami, dan mempraktikkan CSS Layouting
+- Mengetahui, memahami, dan mempraktikkan Javascript Dasar
